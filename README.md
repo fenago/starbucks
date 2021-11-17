@@ -12,7 +12,7 @@ transcript.json - records for transactions, offers received, offers viewed, and 
 <br />
 ## Data understanding:
 <br />
-### portfolio.json:
+### portfolio.json:<br />
 id (string) - offer id<br />
 offer_type (string) - type of offer ie BOGO, discount, informational<br />
 difficulty (int) - minimum required spend to complete an offer<br />
